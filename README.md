@@ -1,5 +1,6 @@
-
-[![black9.github.io.com](https://img.shields.io/badge/-black9.github.io-000?style=for-the-badge&logo=github&logoColor=fff)](https://black9.github.io/portfolio/)
+**introduce**
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=fff)](https://black9.github.io/portfolio/)
+[![Blog](https://img.shields.io/badge/-Blog-000?style=for-the-badge&logo=Microsoft&logoColor=fff)](https://black9.github.io/)
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)

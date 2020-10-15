@@ -1,4 +1,4 @@
-**introduce**
+**Introduce**
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=fff)](https://black9.github.io/portfolio/)
 [![Blog](https://img.shields.io/badge/-Blog-000?style=for-the-badge&logo=Microsoft&logoColor=fff)](https://black9.github.io/)
 

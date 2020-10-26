@@ -11,7 +11,7 @@
 ![Shell](https://img.shields.io/badge/-shell-000?&logo=shell)
 
 **Database**
-![Firebase](https://img.shields.io/badge/-Solidity-000?&logo=firebase)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 
 **Technologies**
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)

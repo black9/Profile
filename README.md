@@ -1,26 +1,13 @@
 **Introduce**
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=fff)](https://black9.github.io/portfolio/)
-[![Blog](https://img.shields.io/badge/-Blog-000?style=for-the-badge&logo=Microsoft&logoColor=fff)](https://black9.github.io/)
+[![Blog](https://img.shields.io/badge/-Blog-000?style=for-the-badge&logo=Microsoft&logoColor=fff)](https://blo9.xyz)
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Go](https://img.shields.io/badge/-go-000?&logo=go)
-![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=ethereum)
-![Java](https://img.shields.io/badge/-java-000?&logo=java)
-![Shell](https://img.shields.io/badge/-shell-000?&logo=shell)
 
 **Database**
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 
 **Technologies**
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/-GCP-000?&logo=google-cloud)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoft-azure)
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
 
 
 

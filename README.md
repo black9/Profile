@@ -24,7 +24,7 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://blo9/xyz"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blo9/xyz"/></a>&nbsp
+  <a href="https://blo9.xyz"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Bloglovin&logoColor=white&link=https://blo9.xyz"/></a>&nbsp
   <a href="mailto:ugnoeyh0390@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ugnoeyh0390@naver.com"/></a>
 </p>
 <br>

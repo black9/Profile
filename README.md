@@ -15,9 +15,12 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
   <br>
+  <img src="https://img.shields.io/badge/firebase-E6B91E?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-092E20?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Blockchain.com&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Ethereum-E6B91E?style=flat-square&logo=Ethereum&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Ethereum-005571?style=flat-square&logo=Ethereum&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+
 </p>
 
 <br>
